@@ -1,0 +1,12 @@
+res://Scenes/survivors_game.tscn
+res://Scenes/player.tscn
+res://Scenes/pine_tree.tscn
+res://Scenes/gun.tscn
+res://Scenes/bullet.tscn
+res://Scenes/mob.tscn
+res://Scripts/bullet.cs
+res://Scripts/survivors_game.cs
+res://Scripts/mob.cs
+res://Scripts/playercontroller.cs
+res://Scripts/gun.cs
+res://Scripts/playerreceiver.cs
